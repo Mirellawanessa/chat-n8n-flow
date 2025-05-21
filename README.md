@@ -14,7 +14,14 @@ Automatizar o recebimento de mensagens de chat, registrar essas mensagens em uma
 ## 🖼️ Visão Geral do Fluxo no n8n
 
 > **Imagem do fluxo:**  
-> ![Fluxo n8n](CAMINHO_DA_IMAGEM)
+> ![Fluxo n8n](https://github.com/Mirellawanessa/chat-n8n-flow/blob/main/workflows/Screenshot%202025-05-21%20100557.png)
+
+---
+
+## 📥 Download do Fluxo
+
+> **Arquivo JSON:**  
+> [📂 Clique aqui para baixar o fluxo exportado do n8n (.json)](https://github.com/Mirellawanessa/chat-n8n-flow/blob/main/workflows/Case_1.json)
 
 ---
 
